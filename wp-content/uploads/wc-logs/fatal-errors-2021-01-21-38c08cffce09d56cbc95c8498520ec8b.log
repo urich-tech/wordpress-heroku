@@ -1,0 +1,40 @@
+2021-01-21T15:37:16+00:00 CRITICAL Uncaught Error: Class 'Neve\Autoloader' not found in C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-content\themes\neve\start.php:18
+Stack trace:
+#0 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-content\themes\neve\start.php(45): neve_run()
+#1 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-content\themes\neve\functions.php(78): require_once('C:\\Bitnami\\wamp...')
+#2 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-settings.php(525): include('C:\\Bitnami\\wamp...')
+#3 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-config.php(90): require_once('C:\\Bitnami\\wamp...')
+#4 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-load.php(37): require_once('C:\\Bitnami\\wamp...')
+#5 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-admin\admin.php(34): require_once('C:\\Bitnami\\wamp...')
+#6 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-admin\customize.php(13): require_once('C:\\Bitnam in C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-content\themes\neve\start.php on line 18
+
+2021-01-21T15:39:35+00:00 CRITICAL Uncaught Error: Class 'Neve\Autoloader' not found in C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-content\themes\neve\start.php:18
+Stack trace:
+#0 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-content\themes\neve\start.php(45): neve_run()
+#1 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-content\themes\neve\functions.php(78): require_once('C:\\Bitnami\\wamp...')
+#2 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-settings.php(525): include('C:\\Bitnami\\wamp...')
+#3 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-config.php(90): require_once('C:\\Bitnami\\wamp...')
+#4 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-load.php(37): require_once('C:\\Bitnami\\wamp...')
+#5 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-admin\admin.php(34): require_once('C:\\Bitnami\\wamp...')
+#6 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-admin\customize.php(13): require_once('C:\\Bitnam in C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-content\themes\neve\start.php on line 18
+
+2021-01-21T15:43:04+00:00 CRITICAL Uncaught Error: Class 'Neve\Autoloader' not found in C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-content\themes\neve\start.php:18
+Stack trace:
+#0 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-content\themes\neve\start.php(45): neve_run()
+#1 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-content\themes\neve\functions.php(78): require_once('C:\\Bitnami\\wamp...')
+#2 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-settings.php(525): include('C:\\Bitnami\\wamp...')
+#3 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-config.php(90): require_once('C:\\Bitnami\\wamp...')
+#4 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-load.php(37): require_once('C:\\Bitnami\\wamp...')
+#5 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-admin\admin.php(34): require_once('C:\\Bitnami\\wamp...')
+#6 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-admin\customize.php(13): require_once('C:\\Bitnam in C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-content\themes\neve\start.php on line 18
+
+2021-01-21T15:51:26+00:00 CRITICAL Uncaught Error: Class 'Neve\Autoloader' not found in C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-content\themes\neve\start.php:18
+Stack trace:
+#0 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-content\themes\neve\start.php(45): neve_run()
+#1 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-content\themes\neve\functions.php(78): require_once('C:\\Bitnami\\wamp...')
+#2 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-settings.php(525): include('C:\\Bitnami\\wamp...')
+#3 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-config.php(90): require_once('C:\\Bitnami\\wamp...')
+#4 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-load.php(37): require_once('C:\\Bitnami\\wamp...')
+#5 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-admin\admin.php(34): require_once('C:\\Bitnami\\wamp...')
+#6 C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-admin\customize.php(13): require_once('C:\\Bitnam in C:\Bitnami\wampstack-7.1.17-0\apache2\htdocs\wordpress-heroku\wp-content\themes\neve\start.php on line 18
+
